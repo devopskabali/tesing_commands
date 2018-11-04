@@ -1,9 +1,0 @@
-git init class is going on
-
-second line for demo to show how commit working
-
-
-Third line created for demo
-
-some more lines added in this file for checking the pull command
-
