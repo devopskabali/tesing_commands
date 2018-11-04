@@ -2,8 +2,8 @@ git init class is going on
 
 second line for demo to show how commit working
 
-<<<<<<< HEAD
+
 Third line created for demo
-=======
+
 some more lines added in this file for checking the pull command
->>>>>>> 6c01e56df623c2a6e3f432173410d70fc5bb2958
+
